@@ -18,6 +18,7 @@ Un renouveau de l'Intelligence Artificielle allait voir le jour. Les médias con
 Afin d'augmenter encore les capacités des Algorithmes Génétiques, David E.Globerg s'appuya sur le parallèle suivant :  
    - un individu est lié à un environnement par son code d'ADN,  
    - Une solution est liée à un problème par son indice de qualité.  
+
 Une "bonne" solution à un problème donné peut-être vue comme un individu susceptible de survivre dans un environnement donné.  
 Mais l'Intelligence Artificielle n'apportait pas le résultat tant recherché : donner une conscience aux ordinateurs.  
 Alors l'homme oublia l'Intelligence Artificielle, et comme pour se prouver qu'il était bien le seul à avoir une conscience, se mis aux Arts.  
